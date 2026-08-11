@@ -17,8 +17,8 @@
   <a href="mailto:vanshkashyap.in@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://vanshkashyap.in">
-    <img src="https://img.shields.io/badge/Website-vanshkashyap.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  <a href="https://aicreation2026.blogspot.com/">
+    <img src="https://img.shields.io/badge/Website-AI%20Creation%202026-0A66C2?style=for-the-badge&logo=blogger&logoColor=white" alt="AI Creation 2026">
   </a>
 </p>
 
@@ -815,8 +815,8 @@ If you're building something interesting, feel free to reach out.
   <a href="https://github.com/Anshu-Kashyap-cmd">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://vanshkashyap.in">
-    <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  <a href="https://aicreation2026.blogspot.com/">
+    <img src="https://img.shields.io/badge/AI%20Creation%202026-Visit%20Website-0A66C2?style=for-the-badge&logo=blogger&logoColor=white" alt="AI Creation 2026">
   </a>
 </p>
 
@@ -834,6 +834,6 @@ Build • Learn • Experiment • Debug • Improve
 
 👋 Thanks for visiting my profile!
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=100&section=footer" alt="Profile footer">
+
 </div>
