@@ -1,220 +1,396 @@
-<h1 align="center">
+<div align="center">
 
-Hi 👋, I'm Anshu Kashyap
+👋 Hi, I'm Anshu Kashyap
 
-</h1>
+🧠 AI-Assisted Logical Programmer • 💻 Creative Developer • 🔧 Open-Source Customizer
 
-<h3 align="center">
-
-AI-Assisted Logical Programmer • Creative Developer • Open-SourceCustomizer
-
-</h3>
-
-<p align="center">
-
-I build practical software, developer tools, automations, experiments,and custom solutions by combining logical problem-solving, programming,open-source technologies, and AI-assisted development.
-
+<p>
+  I build practical software, developer tools, automations, experiments, and custom solutions by combining
+  <b>logical problem-solving</b>, <b>programming</b>, <b>open-source technologies</b>, and
+  <b>AI-assisted development</b>.
 </p>
 
-<p align="center">
-
-<a href="https://github.com/Anshu-Kashyap-cmd">{=html}<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile">{=html}</a>{=html} <a href="mailto:vanshkashyap.in@gmail.com">{=html}<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">{=html}</a>{=html}
-
+<p>
+  <a href="https://github.com/Anshu-Kashyap-cmd">
+    <img src="https://img.shields.io/badge/GitHub-Anshu%20Kashyap-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:vanshkashyap.in@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://vanshkashyap.in">
+    <img src="https://img.shields.io/badge/Website-vanshkashyap.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=anshu-kashyap&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">{=html}
-
+<p>
+  <img src="https://komarev.com/ghpvc/?username=anshu-kashyap&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/Anshu-Kashyap-cmd?label=Followers&style=flat" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/Anshu-Kashyap-cmd?label=Stars&style=flat" alt="GitHub stars">
 </p>
 
-🧠 About Me
+</div>
 
-I'm an AI-Assisted Logical Programmer and Creative Developer whoenjoys turning ideas, problems, and experiments into working software.
+🧭 Who I Am
 
-I don't limit myself to one programming language or one technologystack. I start with the problem, break it into smaller parts, understandthe required logic, choose suitable technologies, and then build andimprove the solution.
+I'm an AI-Assisted Logical Programmer and Creative Developer who enjoys turning ideas and technical problems into working software.
 
-What I do
+I don't restrict myself to a single programming language or stack. My workflow starts with the problem, not the technology.
 
-🧠 Break complex problems into practical technical solutions
+┌─────────────────────┐
+│      PROBLEM        │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│   Break Down Logic  │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ Choose Technologies │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ AI-Assisted Build   │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ Test • Debug • Fix  │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ Customize & Improve │
+└─────────────────────┘
 
-🤖 Use AI coding assistants as development partners for research,prototyping, implementation, debugging, and refactoring
+What I enjoy doing
 
-💻 Build projects across different programming languages andtechnology stacks
+🧠 Breaking complex problems into smaller, understandable technical problems
 
-🔧 Customize open-source software and repositories
+🤖 Using AI coding assistants for research, prototyping, implementation, debugging and refactoring
 
-🧩 Add custom functionality and features to existing codebases
+💻 Building projects across different programming languages and technology stacks
 
-🌐 Build web applications, websites, developer tools, andexperiments
+🔧 Modifying open-source repositories and adding custom functionality
 
-⚙️ Create automation workflows and API-based integrations
+🌐 Building websites, web applications and developer utilities
 
-🐳 Work with local development environments, Docker, CLI tools, anddeployment workflows
+⚙️ Creating automation workflows and API integrations
 
-📊 Work with website analytics, Google Analytics, Google SearchConsole, SEO, and search performance data
+🐳 Working with Docker, Linux, CLI tools and development environments
 
-🧪 Experiment with unfamiliar technologies by learning through realprojects
+📊 Working with Google Analytics, Google Search Console and website/search data
 
-🚀 Turn concepts into prototypes and prototypes into usable software
+🔍 Exploring technical SEO and website performance
 
-My approach: Understand the problem → design the logic → choosethe tools → build → test → debug → improve.
+🧪 Learning unfamiliar technologies by building real projects
 
-🤖 My Development Philosophy
+My goal is not to collect technology names. My goal is to understand a problem and build a useful solution.
 
-AI is a tool in my development workflow, not a replacement for thinking.
+🤖 AI-Assisted Development
 
-I use AI coding assistants to:
+AI is part of my development workflow, but logical thinking remains at the center.
 
-Explore unfamiliar technologies
+I use AI coding assistants as development partners to help me:
 
-Understand existing codebases
+Workflow
 
-Generate implementation drafts
+How I use AI
 
-Compare possible approaches
+🔎 Research
 
-Debug errors
+Explore unfamiliar technologies, libraries and APIs
 
-Refactor repetitive code
+🧩 Architecture
 
-Create prototypes
+Compare implementation approaches
 
-Write documentation
+⚡ Prototyping
 
-Investigate APIs and libraries
+Turn an idea into a working first version
 
-Learn new programming concepts
+💻 Implementation
 
-Speed up experimentation
+Accelerate repetitive or unfamiliar coding tasks
 
-The important part for me is understanding what the software is doing,why it works, and how I can modify it.
+🐛 Debugging
 
-🔧 What I Like Building
+Investigate errors and possible fixes
 
-I enjoy projects that solve practical problems rather than projects thatexist only as demonstrations.
+♻️ Refactoring
 
-Areas I work on
+Improve structure and maintainability
 
-Area                                What I Build
+📚 Learning
 
-🌐 Web Development                  Websites, web apps, tools,dashboards, utilities
+Understand unfamiliar code and concepts
 
-🧰 Developer Tools                  Productivity tools, utilities, CLIexperiments
+🔌 Integration
 
-🤖 AI-Assisted Development          AI-powered prototypes and codingworkflows
+Connect APIs, services and existing systems
 
-⚙️ Automation                       API integrations, workflowautomation, data pipelines
+🧰 Customization
 
-🔌 API Integration                  REST APIs, webhooks, third-partyservices
+Modify existing open-source projects
 
-🔧 Open Source                      Custom modifications, featureadditions, integrations
+📝 Documentation
 
-📊 Analytics & SEO                  Google Analytics, Search Console,SEO analysis
+Organize technical notes and project documentation
 
-🖥️ Software Experiments             Cross-stack prototypes andtechnical experiments
+My principle
 
-🛠️ Languages & Technologies
+AI can help write the code. I focus on understanding the problem, controlling the logic, testing the result, and improving the solution.
 
-I work across multiple stacks depending on the problem.
+🛠️ Technology Stack
 
-Programming Languages
+👨‍💻 Programming Languages
 
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40" alt="Lua">{=html}
-
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,php,go,lua" alt="Programming languages">
 </p>
 
-Web Development
+Technology
 
-<p align="left">
+My typical use
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS">{=html}
+C
 
+Low-level programming, logic and experiments
+
+C++
+
+Systems/programming experiments and project work
+
+Python
+
+Automation, scripting, utilities and prototypes
+
+JavaScript
+
+Web development, APIs, automation and tools
+
+TypeScript
+
+Typed JavaScript applications and tooling
+
+PHP
+
+Web and WordPress-related development
+
+Go
+
+Backend and CLI experiments
+
+Lua
+
+Scripting and project-specific experiments
+
+Experience varies by technology. I actively learn by building rather than claiming the same level of expertise across every language.
+
+🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind" alt="Web development">
 </p>
 
-Development & Infrastructure
+Frontend
 
-<p align="left">
+HTML5
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx">{=html}
+CSS3
 
+JavaScript
+
+Responsive interfaces
+
+UI experimentation
+
+Component-based development
+
+Tailwind CSS
+
+React-based experiments
+
+Backend & Web Services
+
+Node.js
+
+REST APIs
+
+JSON
+
+Webhooks
+
+API integrations
+
+Server-side experimentation
+
+PHP-based development
+
+🧰 Development & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,bash" alt="Development and infrastructure">
 </p>
 
-Databases & Backend Services
+Tools I work with
 
-<p align="left">
+Git & GitHub
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40" alt="SQLite">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase">{=html}
+Docker
 
+Linux environments
+
+CLI tools
+
+Node.js / npm
+
+Local development servers
+
+Nginx
+
+Deployment and hosting workflows
+
+Environment configuration
+
+API testing and debugging
+
+🗄️ Databases & Backend Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase" alt="Databases and backend services">
 </p>
 
-Design & Developer Software
+I work with databases and backend services depending on the requirements of a project.
 
-<p align="left">
+Typical areas include:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40" height="40" alt="Blender">{=html}
+Relational databases
 
+Document databases
+
+Local databases
+
+Authentication services
+
+Cloud-backed applications
+
+CRUD operations
+
+API/database integration
+
+Data modelling experiments
+
+🎨 Design & Developer Software
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,postman,blender" alt="Design and developer software">
 </p>
 
-Note: The technology list represents technologies I work withacross projects and experiments. My depth of experience varies bytechnology.
+Figma
+
+Postman
+
+Blender
+
+Browser developer tools
+
+API testing tools
+
+CLI utilities
+
+Development environments
 
 📊 Analytics, SEO & Search
 
-I also work with the technical and analytical side of websites.
+One part of my work that goes beyond coding is understanding what happens after a website is built.
 
-Google Analytics
+📈 Google Analytics
 
-I use Google Analytics to work with:
+I use Google Analytics to understand website behaviour and performance, including:
 
-Website traffic analysis
+Traffic analysis
 
-User acquisition analysis
+Acquisition sources
 
-Engagement analysis
+User engagement
 
-Event and conversion tracking
+Events
 
-Traffic source analysis
+Conversions
 
 Landing-page performance
 
-User behavior analysis
+Audience behaviour
+
+Traffic trends
 
 Performance reporting
 
 Identifying pages that need improvement
 
-Google Search Console
+Typical workflow
 
-I use Google Search Console for:
+Website
+   ↓
+Google Analytics
+   ↓
+Traffic + Events + Engagement
+   ↓
+Identify Patterns
+   ↓
+Find Problems / Opportunities
+   ↓
+Improve Website
+   ↓
+Measure Again
 
-Search performance analysis
+🔎 Google Search Console
 
-Query and keyword analysis
+I use Google Search Console for technical and search-performance analysis.
 
-Click-through rate analysis
+Areas I work with
 
-Indexing investigation
+Search queries
+
+Clicks
+
+Impressions
+
+CTR
+
+Average position
 
 URL inspection
 
-Sitemap management
+Indexing investigation
 
-Coverage and indexing issues
+Sitemap submission
 
-Search appearance analysis
+Search appearance
 
-Page performance monitoring
+Page indexing issues
 
-Identifying SEO opportunities
+Search performance analysis
 
-Investigating technical search issues
+Technical search troubleshooting
 
-SEO & Web Analysis
+Search performance workflow
 
-I also work with:
+Search Query
+     ↓
+Impressions
+     ↓
+Clicks
+     ↓
+CTR
+     ↓
+Landing Page
+     ↓
+User Behaviour
+     ↓
+Optimization
+
+🧠 SEO & Website Analysis
+
+My web/SEO work includes:
 
 Technical SEO
 
@@ -224,308 +400,440 @@ Search intent
 
 Metadata
 
+Title and description optimization
+
 Internal linking
 
-Structured content
+Sitemap configuration
 
-Sitemap and robots.txt configuration
+robots.txt
 
-Search performance analysis
+Indexing troubleshooting
 
-Website performance
+Search Console analysis
 
 Core Web Vitals
 
-Search indexing troubleshooting
+Website performance
 
-⚙️ Automation & Integrations
+Search traffic analysis
 
-I enjoy connecting different systems together.
+Content structure
 
-Areas of interest
+Website audits
+
+⚙️ Automation & API Integrations
+
+I enjoy connecting separate tools and services into practical workflows.
+
+🔌 Things I work with
 
 REST APIs
 
+JSON
+
 Webhooks
 
-JSON-based integrations
+API authentication
 
-Workflow automation
+Data transformation
 
 Scheduled workflows
 
-Data processing
-
 Google Sheets integrations
 
-WordPress automation
+WordPress integrations
 
-API-driven content workflows
+Content workflows
 
 Custom JavaScript automation
 
+n8n
+
 Local automation environments
 
-n8n workflows
+Automation mindset
 
-My approach is to remove repetitive work wherever a reliable automatedworkflow can do it better.
+Manual Task
+    ↓
+Understand the Process
+    ↓
+Find Repetitive Steps
+    ↓
+Connect APIs / Tools
+    ↓
+Automate
+    ↓
+Monitor
+    ↓
+Improve
 
 🔧 Open Source & Custom Development
 
-One of the things I enjoy most is taking existing open-source softwareand making it work differently.
+I enjoy taking an existing open-source project and adapting it to a specific use case.
 
-I work on things like:
+What I work on
 
-Understanding unfamiliar repositories
+🔍 Reading unfamiliar repositories
 
-Modifying existing functionality
+🧩 Understanding existing architecture
 
-Adding custom features
+🛠️ Modifying existing functionality
 
-Creating integrations
+➕ Adding custom features
 
-Fixing bugs
+🔌 Integrating external APIs
 
-Refactoring parts of a codebase
+🐛 Fixing bugs
 
-Connecting APIs
+♻️ Refactoring parts of a project
 
-Changing UI or behavior
+🎨 Modifying UI and behaviour
 
-Creating custom configurations
+⚙️ Creating custom configurations
 
-Building project-specific extensions
+🧪 Experimenting with alternative implementations
 
-Experimenting with alternative implementations
-
-I see an existing codebase as something I can learn from, modify, andextend.
+An existing codebase is not just something to use. It is also something to learn from, modify and extend.
 
 🚀 Current Project
 
 ⚡ Voltzone
 
-I'm currently working on Voltzone, an experimental project focusedon building practical software and exploring modern developmentworkflows.
+I'm currently working on Voltzone, an experimental project focused on building practical software and exploring development workflows.
 
-🔗 Repository:https://github.com/Anshu-Kashyap-cmd/voltzone
+<p>
+  <a href="https://github.com/Anshu-Kashyap-cmd/voltzone">
+    <img src="https://img.shields.io/badge/View%20Voltzone-Repository-181717?style=for-the-badge&logo=github" alt="Voltzone repository">
+  </a>
+</p>
+
+🧩 Project Categories
+
+I enjoy building projects in different categories rather than staying inside one stack.
+
+<table>
+<tr>
+<td width="50%">
+
+🌐 Web Projects
+
+Websites, web apps, dashboards, utilities and browser-based tools.
+
+</td>
+<td width="50%">
+
+🧰 Developer Tools
+
+Utilities, CLI experiments, coding helpers and productivity tools.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🤖 AI-Assisted Projects
+
+Applications and experiments where AI is part of the development or product workflow.
+
+</td>
+<td>
+
+⚙️ Automation
+
+API integrations, workflows, data processing and repetitive-task automation.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🔧 Open Source
+
+Custom features, modifications, integrations and extensions.
+
+</td>
+<td>
+
+🧪 Experimental Software
+
+Projects created to test an idea, technology, architecture or workflow.
+
+</td>
+</tr>
+</table>
 
 📌 Featured Projects
 
-Replace the placeholders below with your strongest repositories.
+Replace these placeholders with your strongest repositories.
 
-🚀 Project One
+🚀 Project 01
 
-Short description: Explain the problem this project solves and whatmakes it interesting.
+Problem: What problem does the project solve?
 
-Built with: Technology Technology API
+Solution: What did you build?
 
-🔗 Repository: YOUR_REPOSITORY_URL
+Technologies: Language Framework API Database
 
-🧰 Project Two
+Highlights:
 
-Short description: Explain what you built, why you built it, andwhat you learned.
+Feature 1
 
-Built with: Technology Technology Docker
+Feature 2
 
-🔗 Repository: YOUR_REPOSITORY_URL
+Custom functionality
 
-🤖 Project Three
+Interesting technical challenge
 
-Short description: Describe an AI-assisted, automation,developer-tool, or experimental project.
+<a href="YOUR_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/View%20Project-Repository-181717?style=for-the-badge&logo=github" alt="View project">
+</a>
 
-Built with: Technology API Automation
+🧰 Project 02
 
-🔗 Repository: YOUR_REPOSITORY_URL
+Problem: What problem does the project solve?
 
-🧩 How I Approach Projects
+Solution: Explain the implementation in a few lines.
 
-When I start a project, I usually think through it in stages:
+Technologies: Technology Docker API
 
-Problem
-   ↓
-Requirements
-   ↓
-Logical Breakdown
-   ↓
-Architecture
-   ↓
-Technology Selection
-   ↓
-Prototype
-   ↓
-Implementation
-   ↓
-Testing
-   ↓
+Highlights:
+
+Custom implementation
+
+API integration
+
+Automation
+
+Practical use case
+
+<a href="YOUR_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/View%20Project-Repository-181717?style=for-the-badge&logo=github" alt="View project">
+</a>
+
+🤖 Project 03
+
+Problem: What did you want to build?
+
+Solution: What did the final project do?
+
+Technologies: Technology Automation AI
+
+<a href="YOUR_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/View%20Project-Repository-181717?style=for-the-badge&logo=github" alt="View project">
+</a>
+
+🧠 My Project-Building Method
+
+I generally approach a new project like this:
+
+                 ┌──────────────────┐
+                 │      IDEA        │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │     PROBLEM      │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │ LOGICAL BREAKDOWN│
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │ REQUIREMENTS     │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │ TECH SELECTION   │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │    PROTOTYPE     │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │ IMPLEMENTATION    │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │ TEST + DEBUG     │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │ CUSTOMIZE        │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │ IMPROVE + SHIP   │
+                 └──────────────────┘
+
+🧪 Learning Through Projects
+
+I learn best when I have something practical to build.
+
+Instead of trying to memorize every technology first, I prefer:
+
+Learn → Build → Break → Debug → Understand → Improve
+
+This lets me experiment with technologies outside my usual stack while keeping the focus on solving a real problem.
+
+🌱 Currently Learning
+
+Content Creation
+
+I'm currently exploring:
+
+Content creation workflows
+
+Technical content
+
+AI-assisted content production
+
+Visual communication
+
+Publishing workflows
+
+Development
+
+I'm continuously improving:
+
+Software architecture
+
 Debugging
-   ↓
-Optimization
-   ↓
-Documentation
 
-The technology can change from project to project. The problem-solvingprocess stays consistent.
+Testing
 
-🧠 Things I'm Interested In
+Open-source development
 
-Artificial intelligence and AI-assisted software development
-
-Developer productivity
-
-Programming languages
-
-Open-source software
+API integrations
 
 Automation
 
 Web development
 
-APIs and integrations
+AI-assisted development workflows
 
-Developer tools
+Web & Search
 
-Software architecture
+I'm also improving:
 
 Technical SEO
 
-Website analytics
+Search performance analysis
 
-Search systems
+Google Analytics
 
-Cloud and deployment technologies
+Google Search Console
 
-CLI tools
+Website performance
 
-Experimental software
+Content structure
 
-Building useful utilities from simple ideas
+🎯 What I'm Working Toward
 
-🌱 Currently Learning
-
-I'm currently exploring:
-
-Content creation
-
-Better software architecture
-
-Advanced AI-assisted development workflows
-
-Open-source development practices
-
-Better debugging and testing workflows
-
-Advanced web development
-
-Automation and API integrations
-
-Technical SEO and website analytics
-
-🎯 My Current Goals
-
-Build more useful projects
-        ↓
-Understand more technologies
-        ↓
-Contribute to open source
-        ↓
-Improve software architecture
-        ↓
-Create better developer tools
-        ↓
-Turn practical ideas into working products
-
-📈 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anshu-kashyap&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Anshu Kashyap GitHub Stats">{=html}
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-kashyap&layout=compact&theme=transparent&hide_border=true&langs_count=10" alt="Top Languages">{=html}
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=anshu-kashyap&theme=transparent&hide_border=true" alt="GitHub Streak">{=html}
-
-</p>
-
-🏆 GitHub Profile Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anshu-kashyap&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Profile Trophy">{=html}
-
-</p>
-
-📊 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshu-kashyap&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph">{=html}
-
-</p>
+Build Useful Projects
+        │
+        ▼
+Understand More Technologies
+        │
+        ▼
+Improve Engineering Skills
+        │
+        ▼
+Customize & Extend Open Source
+        │
+        ▼
+Build Better Developer Tools
+        │
+        ▼
+Create Practical Software
 
 🤝 Open to Collaboration
 
 I'm interested in collaborating on:
 
-Open-source projects
+🔧 Open-source projects
 
-Developer tools
+🧰 Developer tools
 
-AI-assisted applications
+🤖 AI-assisted applications
 
-Automation tools
+⚙️ Automation tools
 
-Web applications
+🌐 Web applications
 
-Useful utilities
+🔌 API integrations
 
-Experimental software
+🧪 Experimental software
 
-API integrations
+📊 Analytics and SEO tools
 
-Projects that solve practical problems
+💡 Interesting ideas that solve practical problems
 
-If you have an interesting idea, feel free to reach out.
+If you're building something interesting, feel free to reach out.
 
-📫 Contact
+📊 GitHub Analytics
 
-<p align="left">
+<div align="center">
 
-📧 <strong>{=html}Email:</strong>{=html} vanshkashyap.in@gmail.com
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=anshu-kashyap&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub statistics">
 
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-kashyap&layout=compact&theme=transparent&hide_border=true&langs_count=10" alt="Top languages">
 
-<p align="left">
+</div>
 
-🌐 <strong>{=html}Website:</strong>{=html} vanshkashyap.in
+<div align="center">
 
-</p>
+<img src="https://streak-stats.demolab.com?user=anshu-kashyap&theme=transparent&hide_border=true" alt="GitHub streak">
 
-<p align="left">
+</div>
 
-💻 <strong>{=html}GitHub:</strong>{=html}https://github.com/Anshu-Kashyap-cmd
+🏆 GitHub Profile Trophy
 
-</p>
+<div align="center">
 
-💡 A Small Principle I Follow
+<img src="https://github-profile-trophy.vercel.app/?username=anshu-kashyap&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub profile trophies">
 
-Don't choose a technology because it looks impressive. Choose itbecause it solves the problem.
+</div>
 
-And if the right technology is unfamiliar, learn it, experiment with it,and build something with it.
+📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshu-kashyap&theme=github-compact&hide_border=true" alt="GitHub contribution activity">
+
+</div>
+
+📫 Connect With Me
 
 <p align="center">
-
-<strong>{=html}Thanks for visiting my profile 👋</strong>{=html}
-
+  <a href="mailto:vanshkashyap.in@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Anshu-Kashyap-cmd">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://vanshkashyap.in">
+    <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
 </p>
 
-<p align="center">
+💡 A Principle I Follow
 
-<i>{=html}Build • Learn • Experiment • Improve</i>{=html}
+<div align="center">
 
-</p>
+"Don't choose a technology because it looks impressive. Choose it because it solves the problem."
+
+Build • Learn • Experiment • Debug • Improve
+
+</div>
+
+<div align="center">
+
+👋 Thanks for visiting my profile!
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=100&section=footer" alt="Profile footer">
+</div>
