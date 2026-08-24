@@ -826,7 +826,7 @@ If you're building something interesting, feel free to reach out.
 
 "Don't choose a technology because it looks impressive. Choose it because it solves the problem."
 
-Build • Learn • Experiment • Debug • Improve.
+Build • Learn • Experiment • Debug • Improve
 
 </div>
 
