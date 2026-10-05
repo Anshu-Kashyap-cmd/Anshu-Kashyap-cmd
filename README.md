@@ -587,7 +587,7 @@ Custom functionality
 
 Interesting technical challenge
 
-<a href="YOUR_REPOSITORY_URL">
+<a href="https://github.com/Anshu-Kashyap-cmd/Abrol-art/">
   <img src="https://img.shields.io/badge/View%20Project-Repository-181717?style=for-the-badge&logo=github" alt="View project">
 </a>
 
@@ -597,7 +597,7 @@ Problem: What problem does the project solve?
 
 Solution: Explain the implementation in a few lines.
 
-Technologies: Technology Docker API
+Technologies: Technology Google API
 
 Highlights:
 
@@ -609,7 +609,7 @@ Automation
 
 Practical use case
 
-<a href="YOUR_REPOSITORY_URL">
+<a href="(https://github.com/Anshu-Kashyap-cmd/cursor-animator-studio)">
   <img src="https://img.shields.io/badge/View%20Project-Repository-181717?style=for-the-badge&logo=github" alt="View project">
 </a>
 
@@ -619,9 +619,9 @@ Problem: What did you want to build?
 
 Solution: What did the final project do?
 
-Technologies: Technology Automation AI
+Technologies: Technology For Bolt AI
 
-<a href="YOUR_REPOSITORY_URL">
+<a href="(https://github.com/Anshu-Kashyap-cmd/Bordeermathlandingpage)">
   <img src="https://img.shields.io/badge/View%20Project-Repository-181717?style=for-the-badge&logo=github" alt="View project">
 </a>
 
