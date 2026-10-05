@@ -504,7 +504,7 @@ I'm currently working on Voltzone, an experimental project focused on building p
 
 <p>
   <a href="https://github.com/Anshu-Kashyap-cmd/voltzone">
-    <img src="https://img.shields.io/badge/View%20Voltzone-Repository-181717?style=for-the-badge&logo=github" alt="Voltzone repository">
+   
   </a>
 </p>
 
@@ -588,7 +588,7 @@ Custom functionality
 Interesting technical challenge
 
 <a href="https://github.com/Anshu-Kashyap-cmd/Abrol-art/">
-  <img src="https://img.shields.io/badge/View%20Project-Repository-181717?style=for-the-badge&logo=github" alt="View project">
+ 
 </a>
 
 🧰 Project 02
@@ -610,7 +610,7 @@ Automation
 Practical use case
 
 <a href="(https://github.com/Anshu-Kashyap-cmd/cursor-animator-studio)">
-  <img src="https://img.shields.io/badge/View%20Project-Repository-181717?style=for-the-badge&logo=github" alt="View project">
+  
 </a>
 
 🤖 Project 03
@@ -622,7 +622,7 @@ Solution: What did the final project do?
 Technologies: Technology For Bolt AI
 
 <a href="(https://github.com/Anshu-Kashyap-cmd/Bordeermathlandingpage)">
-  <img src="https://img.shields.io/badge/View%20Project-Repository-181717?style=for-the-badge&logo=github" alt="View project">
+  
 </a>
 
 🧠 My Project-Building Method
